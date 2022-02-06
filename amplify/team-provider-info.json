@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyappspring22-dev-122945",
       "StackId": "arn:aws:cloudformation:us-east-1:133345511550:stack/amplify-amplifyappspring22-dev-122945/6f61f3c0-85e8-11ec-85ee-0aa75dfb331b",
       "AmplifyAppId": "dj0t3ycvcgso7"
+    },
+    "categories": {
+      "auth": {
+        "amplifyappspring22b575e97d": {}
+      }
     }
   }
 }
